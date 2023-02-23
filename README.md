@@ -1,4 +1,4 @@
-# Eduwork_logic_test
+# Eduwork Logic Test
 ---
 ### 1. Buatlah fungsi sebagai berikut :
 - Apabila terdapat int = 4, maka outputnya 24 (prosesnya : 4*3*2*1)
